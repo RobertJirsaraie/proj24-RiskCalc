@@ -1,0 +1,32 @@
+{
+  "feat_labels": {
+    "adversity": ["adversity", "STRSS"],
+    "behavior": ["behavior", "BEHAV"],
+    "cognition": ["cognition", "COG"],
+    "demographics": ["demographics", "DEMO"],
+    "environmental": ["environmental", "ENVIR"],
+    "family": ["family", "FAM"],
+    "multimodal": ["multimodal", "MULTI"],
+    "MRIanat": ["sMRI", "MRIanat"],
+    "MRIfunc": ["fMRI", "MRIfunc"],
+    "MRIdwi": ["dMRI", "MRIdwi"]
+  },
+  "feat_colors": {
+    "adversity": "#ff0000",
+    "behavior": "#58CCED",
+    "cognition": "#3895D3",
+    "demographics": "#072F5F",
+    "environmental": "#ff7b7b",
+    "family": "#a70000",
+    "multimodal": "#8a8a8a",
+    "sMRI": "#8fbc8f",
+    "fMRI": "#008000",
+    "dMRI": "#004c00"
+  },
+  "targ_colors": {
+    "totalprob": "#803b09",
+    "attention": "#ffc026",
+    "external": "#c70000",
+    "internal": "#003cc7"
+  }
+}
